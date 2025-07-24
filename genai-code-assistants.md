@@ -25,3 +25,5 @@ This page provides an overview of GenAI-based code assistants, including their b
 ## open-Source Projects
 
 * [Build YOUR Local AI Coding Agent (No Cloud Needed)](https://pub.towardsai.net/build-a-local-ai-coding-agent-no-cloud-needed-77f9c5aa4cff): This post discusses building a local Cursor — a terminal-based AI coding agent that runs entirely offline using open-source models.
+
+* [Opencode: AI coding agent, built for the terminal](https://github.com/sst/opencode): Opencode is a fully open-source terminal coding agent that gives you all the power of Claude Code and OpenAI Codex without the vendor lock-in.
